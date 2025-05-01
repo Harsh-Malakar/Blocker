@@ -32,7 +32,7 @@
 0.0.0.0 0006666.net
 0.0.0.0 masalaseen.com.co
 0.0.0.0 masalaseen.co.com
-0.0.0.0 masalaseen.in
+||masalaseen.in^
 0.0.0.0 0310love.com
 0.0.0.0 081xxx.com
 0.0.0.0 1001truyen.blogspot.com
